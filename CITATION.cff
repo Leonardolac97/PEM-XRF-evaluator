@@ -20,7 +20,7 @@ authors:
   - family-names: "Grunwaldt"
     given-names: "Jan-Dierk"
     affiliation: "Karlsruhe Institute of Technology (KIT)"
-repository-code: ""
+Github: "https://github.com/Leonardolac97/PEM-XRF-evaluator/"
 license: "MIT"
 version: "1.0.0"
 doi: ""
@@ -30,6 +30,8 @@ keywords:
   - X-ray fluorescence
   - PEM water electrolysis
   - PEMWE
+  - MEA
+  - PEM
   - catalyst-coated membrane
   - CCM
   - Nafion
