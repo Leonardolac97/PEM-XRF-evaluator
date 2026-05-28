@@ -171,40 +171,6 @@ Generated folders, TIFF files, CSV outputs, and figures are ignored by the provi
 
 ---
 
-## Repository layout
-
-A minimal first repository version can be organized as:
-
-```text
-xrf-pemwe-analysis-software/
-├── XRF_PEMWE_software.py
-├── README.md
-├── LICENSE
-├── CITATION.cff
-├── requirements.txt
-├── environment.yml
-└── .gitignore
-```
-
-A future refactored version may use a modular structure such as:
-
-```text
-xrf-pemwe-analysis-software/
-├── main.py
-├── gui/
-├── processing/
-├── plotting/
-├── config/
-├── README.md
-├── LICENSE
-├── CITATION.cff
-├── requirements.txt
-├── environment.yml
-└── .gitignore
-```
-
----
-
 ## Known limitations
 
 - The current version is a research/prototype GUI rather than a fully packaged Python library.
