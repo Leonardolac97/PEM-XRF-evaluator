@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+
+# PyCharm / editors
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter, if notebooks are added later
+.ipynb_checkpoints/
+
+# Raw or large scientific data
+raw_data/
+processed_data/
+data/
+*.tif
+*.tiff
+*.h5
+*.hdf5
+*.raw
+*.npy
+*.npz
+
+# Generated outputs from the software
+Final_Plots/
+Plot_of_stacks/
+variables/
+results/
+figures/
+*.csv
+*.svg
+*.png
+*.pdf
+
+# Keep empty placeholder folders if needed
+!figures/.gitkeep
+!results/.gitkeep

@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "XRF PEMWE Analysis Software"
+abstract: >-
+  A PyQt6-based graphical user interface for processing, visualizing,
+  segmenting, and quantifying X-ray fluorescence (XRF) maps of PEM water
+  electrolysis catalyst-coated membrane cross-sections. The workflow includes
+  TIFF stack loading, Pt and Ir emission map visualization, threshold-based
+  segmentation, Nafion and catalyst-layer masking, membrane thickness estimation
+  from absorption-contrast images, and thickness-corrected elemental
+  quantification.
+type: Software
+authors:
+  - family-names: "Almeida de Campos"
+    given-names: "Leonardo"
+    affiliation: "Karlsruhe Institute of Technology (KIT)"
+  - family-names: "Lennon Sheppard"
+    given-names: "Thomas"
+    affiliation: "Technische Universität Wien (TUWien)"
+  - family-names: "Grunwaldt"
+    given-names: "Jan-Dierk"
+    affiliation: "Karlsruhe Institute of Technology (KIT)"
+repository-code: ""
+license: "MIT"
+version: "1.0.0"
+doi: ""
+date-released: "2026-05-28"
+keywords:
+  - XRF
+  - X-ray fluorescence
+  - PEM water electrolysis
+  - PEMWE
+  - catalyst-coated membrane
+  - CCM
+  - Nafion
+  - Pt
+  - Ir
+  - membrane thickness
+  - image segmentation
+  - quantitative mapping
+  - data analysis
