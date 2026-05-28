@@ -1,4 +1,4 @@
-# XRF PEMWE Analysis Software
+# PEM XRF Analysis Software
 
 A PyQt6-based graphical user interface for processing, visualizing, segmenting, and quantifying X-ray fluorescence (XRF) maps of PEM water electrolysis catalyst-coated membrane (CCM) cross-sections.
 
