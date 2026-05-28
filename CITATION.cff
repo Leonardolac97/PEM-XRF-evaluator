@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it using the metadata below."
-title: "XRF PEMWE Analysis Software"
+title: "PEM 2D XRF Analysis Software"
 abstract: >-
   A PyQt6-based graphical user interface for processing, visualizing,
   segmenting, and quantifying X-ray fluorescence (XRF) maps of PEM water
